@@ -59,7 +59,6 @@ $languageStrings = array(
 
 $jsLanguageStrings = array(
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'مطمئن هستید می خواهید حذف کنید؟',
-	'LBL_DELETE_CONFIRMATION' => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?',
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organization(s) will remove its related Opportunities & Quotes. Are you sure you want to delete the selected records?',
-	'JS_DUPLICATE_CREATION_CONFIRMATION' => 'Organization Name already Exists.Do you want to create a duplicate record?'
+	'LBL_MASS_DELETE_CONFIRMATION' => 'حذف این شرکت(ها)همه فرصت ها و (quot)های مرتبط را حذف میکند . آیا از حذف رکورد ها مطمئن هستید؟',
+	'JS_DUPLICATE_CREATION_CONFIRMATION' => 'اسم شرکت از قبل وجود دارد آیا میخواهید یک رکورد تکراری ثبت کنید؟'
 );
