@@ -9,24 +9,24 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Assets'        => 'Assets',
-	'SINGLE_Assets' => 'Asset',
-	'LBL_ADD_RECORD' => 'Add Asset',
-	'LBL_RECORDS_LIST' => 'Assets List',
+	'Assets'        => 'سرمایه',
+	'SINGLE_Assets' => 'سرمایه',
+	'LBL_ADD_RECORD' => 'اضافه کردن سرمایه',
+	'LBL_RECORDS_LIST' => 'لیست سرمایه ها',
 
 	// Blocks
-	'LBL_ASSET_INFORMATION' => 'Asset Details',
+	'LBL_ASSET_INFORMATION' => 'جزئیات سرمایه',
 
 	//Field Labels
-    'Asset No' => 'Asset No',
-	'Serial Number' => 'Serial Number',
-	'Date Sold' => 'Date Sold',
+    'Asset No' => 'شماره سرمایه',
+	'Serial Number' => 'شماره سریال',
+	'Date Sold' => 'داده فروخته شده',
 	'Date in Service' => 'Date in Service',
-	'Tag Number' => 'Tag Number',
-	'Invoice Name' => 'Invoice Name',
-	'Shipping Method' => 'Shipping Method',
+	'Tag Number' => 'شماره تگ',
+	'Invoice Name' => 'نام فاکتور',
+	'Shipping Method' => 'متود ترابری',
 	'Shipping Tracking Number' => 'Shipping Tracking Number',
-	'Asset Name' => 'Asset Name',
+	'Asset Name' => 'نام توافق',
 	'Customer Name' => 'Customer Name',
 	'Notes' => 'Notes',
 
