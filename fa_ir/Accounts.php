@@ -9,55 +9,56 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Accounts' => 'Organizations',
-	'SINGLE_Accounts' => 'Organization',
-	'LBL_ADD_RECORD' => 'Add Organization',
-	'LBL_RECORDS_LIST' => 'Organization List',
+	'Accounts' => 'شرکت',
+	'SINGLE_Accounts' => 'شرکت',
+	'LBL_ADD_RECORD' => 'اضافه کردن شرکت',
+	'LBL_RECORDS_LIST' => 'لیست شرکت ها
+	',
 
 	// Blocks
-	'LBL_ACCOUNT_INFORMATION' => 'Organization Details',
+	'LBL_ACCOUNT_INFORMATION' => 'جزئیات شرکت ها',
 
 	// Mass Action
 	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Organization Hierarchy',
 
 	//Field Labels
 	'industry' => 'Industry',
-	'Account Name' => 'Organization Name',
-	'Account No' => 'Organization Number',
-	'Website' => 'Website',
+	'Account Name' => 'نام شرکت',
+	'Account No' => 'شماره شرکت',
+	'Website' => 'وبسایت',
 	'Ticker Symbol' => 'Ticker Symbol',
-	'Member Of' => 'Member Of',
-	'Employees' => 'Employees',
-	'Ownership' => 'Ownership',
+	'Member Of' => 'عضو',
+	'Employees' => 'کارمندان',
+	'Ownership' => 'مالکیت',
 	'SIC Code' => 'SIC Code',
-	'Other Email' => 'Secondary Email',
-	'Other Phone' => 'Secondary Phone',
-	'Phone' => 'Primary Phone',
-	'Email' => 'Primary Email',
+	'Other Email' => 'ایمیل جایگزین',
+	'Other Phone' => 'شماره تلفن جایگزین',
+	'Phone' => 'شماره تلفن اصلی',
+	'Email' => 'ایمیل اصلی',
 	'Type' => 'Type',
 
 	//Added for existing picklist entries
-	'Analyst'=>'Analyst',
-	'Competitor'=>'Competitor',
-	'Customer'=>'Customer',
+	'Analyst'=>'آنالیزور',
+	'Competitor'=>'رقیب',
+	'Customer'=>'مشتری',
 	'Integrator'=>'Integrator',
-	'Investor'=>'Investor',
+	'Investor'=>'سرمایه گذار',
 	'Press'=>'Press',
 	'Prospect'=>'Prospect',
 	'Reseller'=>'Reseller',
-	'LBL_START_DATE' => 'Start Date',
-	'LBL_END_DATE' => 'End Date',
+	'LBL_START_DATE' => 'تاریخ شروع',
+	'LBL_END_DATE' => 'تاریخ پایان',
 
 	//Duplication error message
-	'LBL_DUPLICATES_EXIST' => 'Organization Name already exists',
+	'LBL_DUPLICATES_EXIST' => 'نام این شرکت از قبل وجود دارد',
 	'LBL_COPY_SHIPPING_ADDRESS' => 'Copy Shipping Address',
 	'LBL_COPY_BILLING_ADDRESS' => 'Copy Billing Address',
-	'LBL_IMAGE_INFORMATION' => 'Profile Picture',
-	'Organization Image' => 'Organization Image',
+	'LBL_IMAGE_INFORMATION' => 'تصویر پروفایل',
+	'Organization Image' => 'تصویر شرکت',
 );
 
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to delete?',
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'مطمئن هستید می خواهید حذف کنید؟',
 	'LBL_DELETE_CONFIRMATION' => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?',
 	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organization(s) will remove its related Opportunities & Quotes. Are you sure you want to delete the selected records?',
 	'JS_DUPLICATE_CREATION_CONFIRMATION' => 'Organization Name already Exists.Do you want to create a duplicate record?'
