@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Accounts' => 'شرکت',
+	'Accounts' => 'Organizations',
 	'SINGLE_Accounts' => 'Organization',
 	'LBL_ADD_RECORD' => 'Add Organization',
 	'LBL_RECORDS_LIST' => 'Organization List',
