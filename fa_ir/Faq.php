@@ -8,27 +8,27 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Faq' => 'FAQ',
-	'SINGLE_Faq' => 'FAQ',
-	'LBL_RECORDS_LIST' => 'FAQs List',
-	'LBL_ADD_RECORD' => 'Add FAQ',
+	'Faq' => 'سوالات متداول',
+	'SINGLE_Faq' => 'سوالات متداول',
+	'LBL_RECORDS_LIST' => 'لیست سوالات متداول',
+	'LBL_ADD_RECORD' => 'اضافه کردن سوال متداول',
 
 	//Blocks
-	'LBL_FAQ_INFORMATION' => 'FAQ Information',
-	'LBL_COMMENT_INFORMATION' =>  'Comments',
+	'LBL_FAQ_INFORMATION' => 'اطلاعات سوالات متداول',
+	'LBL_COMMENT_INFORMATION' =>  'نظرات',
 
 	//Fields
-	'Question'=>'Question',
-	'Answer'=>'Answer',
-	'Comments'=>'Comments',
-	'Faq No' => 'Faq Number',
+	'Question'=>'سوال',
+	'Answer'=>'جواب',
+	'Comments'=>'نظر',
+	'Faq No' => 'شماره س.م',
 
 	//Added for existing Picklist Entries
-	'General'=>'General',
-	'Draft'=>'Draft',
-	'Published'=>'Published',
+	'General'=>'عمومی',
+	'Draft'=>'پیش نویس',
+	'Published'=>'Pubisheمنتشر شده',
 	'Obsolete'=>'Obsolete',
 
 	//EditView
-	'LBL_SOLUTION' => 'Solution',
+	'LBL_SOLUTION' => 'راه حل',
 );
