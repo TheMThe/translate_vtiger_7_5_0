@@ -12,58 +12,58 @@
 
 $languageStrings = array(
 	// Basic Strings
-	'Events' => 'Events',
-	'SINGLE_Events' => 'Event',
-	'LBL_ADD_RECORD' => 'Add Event',
-	'LBL_RECORDS_LIST' => 'Events List',
-	'LBL_EVENTS' => 'Events',
-	'LBL_TODOS' => 'Task',
+	'Events' => 'رویداد هل',
+	'SINGLE_Events' => 'رویداد',
+	'LBL_ADD_RECORD' => 'اضافه کردن رویداد',
+	'LBL_RECORDS_LIST' => 'لیست رویدا ها',
+	'LBL_EVENTS' => 'رویداد ها',
+	'LBL_TODOS' => 'وظیفه',
 	'LBL_HOLD_FOLLOWUP_ON' => 'Hold Followup on',
     'LBL_CREATE_FOLLOWUP_EVENT' => 'Create Follow Up Event',
 	
 	// Blocks
-	'LBL_EVENT_INFORMATION' => 'Event Details',
+	'LBL_EVENT_INFORMATION' => 'جزئیات رویداد',
 	'LBL_RECURRENCE_INFORMATION' => 'Recurrence Details',
-    'LBL_RELATED_TO' => 'Related To',
+    'LBL_RELATED_TO' => 'مربوط به',
 	
 	//Fields
-	'Start Date & Time'=>'Start Date & Time',
+	'Start Date & Time'=>'تاریخ و ساعت شروع',
 	'Recurrence' => 'Recurrence',
-	'Send Notification' => 'Send Notification',
-	'Location'=>'Location',
-	'Send Reminder' => 'Send Email Reminder Before',
-	'End Date & Time' => 'End Date & Time',
-	'End Date' => 'End Date & Time',
-    'Activity Type'=>'Activity Type',
-	'Visibility' => 'Visibility',
-	'Recurrence' => 'Repeat',
-    'Related To' => 'Related To',
+	'Send Notification' => 'ارسال نوتیفیکیشن',
+	'Location'=>'مکان',
+	'Send Reminder' => 'از قبل ایمیل یاد آور بفرست',
+	'End Date & Time' => 'تاریخ و ساعت پایان',
+	'End Date' => 'تاریخ و ساعت پایان',
+    'Activity Type'=>'نوع فعالیت',
+	'Visibility' => 'قابل دید بودن',
+	'Recurrence' => 'تکرار',
+    'Related To' => 'مربوط به',
     
 	//Visibility picklist values
-	'Private' => 'Private',
-	'Public' => 'Public',
+	'Private' => 'شخصی',
+	'Public' => 'عمومی',
 	
 	//Activity Type picklist values
-	'Call' => 'Call',
-	'Meeting' => 'Meeting',
+	'Call' => 'تماس',
+	'Meeting' => 'جلسه',
 	
 	//Status picklist values
-	'Planned' => 'Planned',
+	'Planned' => 'برنامه ریزی شده',
 	'Held' => 'Held',
 	'Not Held' => 'Not Held',
 	
 	//Reminder Labels
-	'LBL_DAYS' => 'Days',
-	'LBL_HOURS' => 'Hours',
+	'LBL_DAYS' => 'روز ها',
+	'LBL_HOURS' => 'ساعات',
 	
 	//Repeat Labels
-	'LBL_DAYS_TYPE' => 'Day(s)',
-	'LBL_WEEKS_TYPE' => 'Week(s)',
-	'LBL_MONTHS_TYPE' => 'Month(s)',
-	'LBL_YEAR_TYPE' => 'Year',
+	'LBL_DAYS_TYPE' => 'روز(ها)',
+	'LBL_WEEKS_TYPE' => 'هفته(ها)',
+	'LBL_MONTHS_TYPE' => 'ماه(ها)',
+	'LBL_YEAR_TYPE' => 'سال',
 	
-	'LBL_FIRST' => 'First',
-	'LBL_LAST' => 'Last',
+	'LBL_FIRST' => 'اول',
+	'LBL_LAST' => 'آخر',
 	
 	'LBL_SM_SUN' => 'Sun',
 	'LBL_SM_MON' => 'Mon',
@@ -73,31 +73,31 @@ $languageStrings = array(
 	'LBL_SM_FRI' => 'Fri',
 	'LBL_SM_SAT' => 'Sat',
 	
-	'LBL_DAY0' => 'Sunday',
-	'LBL_DAY1' => 'Monday',
-	'LBL_DAY2' => 'Tuesday',
-	'LBL_DAY3' => 'Wednesday',
-	'LBL_DAY4' => 'Thursday',
-	'LBL_DAY5' => 'Friday',
-	'LBL_DAY6' => 'Saturday',
+	'LBL_DAY0' => 'یکشنبه',
+	'LBL_DAY1' => 'دوشنبه',
+	'LBL_DAY2' => 'سه شنبه',
+	'LBL_DAY3' => 'چهار شنبه',
+	'LBL_DAY4' => 'پنجشنبه',
+	'LBL_DAY5' => 'جمعه',
+	'LBL_DAY6' => 'شنبه',
 	
-	'Daily'=>'Day(s)',
-	'Weekly'=>'Week(s)',
-	'Monthly'=>'Month(s)',
-	'Yearly'=>'Year',
+	'Daily'=>'روز(ها)',
+	'Weekly'=>'هفته(ها)',
+	'Monthly'=>'ماه(ها)',
+	'Yearly'=>'سال',
 	
-	'LBL_REPEATEVENT' => 'Once in every',
-	'LBL_UNTIL' => 'Until',
-	'LBL_DAY_OF_THE_MONTH' => 'day of the month',
-	'LBL_ON' => 'on',
+	'LBL_REPEATEVENT' => 'یکبار در هر',
+	'LBL_UNTIL' => 'تا',
+	'LBL_DAY_OF_THE_MONTH' => 'روز ما',
+	'LBL_ON' => 'روشن',
 	
-	'LBL_RECORDS_LIST' => 'List View',
-	'LBL_CALENDAR_VIEW' => 'Calendar View',
+	'LBL_RECORDS_LIST' => 'آخرین بازدید',
+	'LBL_CALENDAR_VIEW' => 'بازدید تقویم',
 
-    'LBL_INVITE_USER_BLOCK' => 'Invite',
-    'LBL_INVITE_USERS' => 'Invite Users',
-    'LBL_INVITE_PEOPLE' => 'Invite People',
-	'INVITATION'=>' Invitation ',
-	'Busy' => 'Busy',
+    'LBL_INVITE_USER_BLOCK' => 'دعوت',
+    'LBL_INVITE_USERS' => 'دعوت کاربران',
+    'LBL_INVITE_PEOPLE' => 'دعوت مردم',
+	'INVITATION'=>' دعوتنامه ',
+	'Busy' => 'مشغول',
 
 );
