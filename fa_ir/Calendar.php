@@ -33,34 +33,34 @@ $languageStrings = array(
     'LBL_EVENT_INFORMATION'=> 'جزئیات رویداد',
 
 	//Fields
-	'Subject' => 'Subject',
-	'Start Date & Time' => 'Start Date & Time',
-	'Activity Type'=>'Activity Type',
-	'Send Notification'=>'Send Notification',
-	'Location'=>'Location',
-	'End Date & Time' => 'End Date & Time',
-	'Visibility' => 'Visibility',
-	'Recurrence' => 'Repeat',
+	'Subject' => 'موضوع',
+	'Start Date & Time' => 'تاریخ و ساعت شروع',
+	'Activity Type'=>'نوع فعالیت',
+	'Send Notification'=>'ارسال نوتیفیکیشن',
+	'Location'=>'مکان',
+	'End Date & Time' => 'تاریخ و ساعت پایان',
+	'Visibility' => 'دیده شدن (قابل دید بودن)',
+	'Recurrence' => 'تکرار',
 	
 	//Visibility picklist values
-	'Private' => 'Private',
-	'Public' => 'Public',
+	'Private' => 'شخصی',
+	'Public' => 'عمومی',
 	
 	//Side Bar Names
-	'LBL_ACTIVITY_TYPES' => 'Activity Types',
+	'LBL_ACTIVITY_TYPES' => 'نوع فعالیت',
 	'LBL_CONTACTS_SUPPORT_END_DATE' => 'Support End Date',
-	'LBL_CONTACTS_BIRTH_DAY' => 'Date of Birth',
-	'LBL_ADDED_CALENDARS' => 'Added Calendars',
+	'LBL_CONTACTS_BIRTH_DAY' => 'تاریخ تولد',
+	'LBL_ADDED_CALENDARS' => 'تقویم های اضافه شده',
 
 
 	//Activity Type picklist values
-	'Call' => 'Call',
-	'Meeting' => 'Meeting',
-	'Task' => 'Task',
+	'Call' => 'تماس',
+	'Meeting' => 'جلسه',
+	'Task' => 'وظیفه',
 
 	//Status picklist values
-	'Planned' => 'Planned',
-	'Completed' => 'Completed',
+	'Planned' => 'برنامه ریزی شده',
+	'Completed' => 'تکمیل شده',
 	'Pending Input' => 'Pending Input',
 	'Not Started' => 'Not Started',
 	'Deferred' => 'Deferred',
