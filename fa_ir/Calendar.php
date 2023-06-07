@@ -62,7 +62,7 @@ $languageStrings = array(
 	'Planned' => 'برنامه ریزی شده',
 	'Completed' => 'تکمیل شده',
 	'Pending Input' => 'Pending Input',
-	'Not Started' => 'Not Started',
+	'Not Started' => 'شروع نشده',
 	'Deferred' => 'Deferred',
 	'Held' => 'Held',
 	'Not Held' => 'Not Held',
@@ -70,13 +70,13 @@ $languageStrings = array(
 	//Priority picklist values
 	'Medium' => 'Medium',
 
-	'LBL_CHANGE_OWNER' => 'Change Owner',
+	'LBL_CHANGE_OWNER' => 'تغییر مالک',
 
-	'LBL_EVENT' => 'Event',
-	'LBL_TASK' => 'Task',
-	'LBL_TASKS' => 'Task',
+	'LBL_EVENT' => 'رویداد',
+	'LBL_TASK' => 'وظیفه',
+	'LBL_TASKS' => 'وظیفه',
 
-	'LBL_RECORDS_LIST' => 'List View',
+	'LBL_RECORDS_LIST' => 'تماشای لیست',
 	'LBL_CALENDAR_VIEW' => 'My Calendar',
 	'LBL_SHARED_CALENDAR' => 'Shared Calendar',
 
