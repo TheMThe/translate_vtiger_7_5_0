@@ -25,12 +25,12 @@ $languageStrings = array(
 	'Tag Number' => 'شماره تگ',
 	'Invoice Name' => 'نام فاکتور',
 	'Shipping Method' => 'متود ترابری',
-	'Shipping Tracking Number' => 'Shipping Tracking Number',
-	'Asset Name' => 'نام توافق',
-	'Customer Name' => 'Customer Name',
-	'Notes' => 'Notes',
+	'Shipping Tracking Number' => 'شماره پیگیری ترابری',
+	'Asset Name' => 'نام سرمایه',
+	'Customer Name' => 'نام مشتری',
+	'Notes' => 'یادداشت ها',
 
 	/*picklist values*/
 	'In Service'=>'In Service',
-	'Out-of-service'=>'Out-of-service',
+	'Out-of-service'=>'خارج از سرویس',
 );

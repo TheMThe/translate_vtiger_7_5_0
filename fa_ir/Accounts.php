@@ -22,7 +22,7 @@ $languageStrings = array(
 	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Organization Hierarchy',
 
 	//Field Labels
-	'industry' => 'Industry',
+	'industry' => 'صنعت',
 	'Account Name' => 'نام شرکت',
 	'Account No' => 'شماره شرکت',
 	'Website' => 'وبسایت',
@@ -41,10 +41,10 @@ $languageStrings = array(
 	'Analyst'=>'آنالیزور',
 	'Competitor'=>'رقیب',
 	'Customer'=>'مشتری',
-	'Integrator'=>'Integrator',
+	'Integrator'=>'ائتلاف',
 	'Investor'=>'سرمایه گذار',
 	'Press'=>'Press',
-	'Prospect'=>'Prospect',
+	'Prospect'=>'چشم انداز',
 	'Reseller'=>'Reseller',
 	'LBL_START_DATE' => 'تاریخ شروع',
 	'LBL_END_DATE' => 'تاریخ پایان',
