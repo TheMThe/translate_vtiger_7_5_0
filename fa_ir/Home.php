@@ -9,26 +9,26 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Home Page Components
-	'ALVT' => 'Top Organizations',
-	'PLVT' => 'Top Opportunities',
-	'QLTQ' => 'Top Quotes',
+	'ALVT' => 'شرکت های برتر',
+	'PLVT' => 'فرصت های برتر',
+	'QLTQ' => 'قیمت گذاری برتر',
 	'CVLVT' => 'Key Metrics',
 	'HLT' => 'Top Support Tickets',
-	'GRT' => 'My Group Allocation',
-	'OLTSO' => 'Top Sales Orders',
+	'GRT' => 'توزیع گروه من',
+	'OLTSO' => 'بالا ترین سفارش فروش',
 	'ILTI' => 'Top Invoices',
-	'HDB' => 'Home Page Dashboard',
-	'OLTPO' => 'Top Purchase Orders',
-	'LTFAQ' => 'My Recent FAQs',
-	'UA' => 'Upcoming Activities',
-	'PA' => 'Pending Activities',
-    'Home'=> 'Dashboard',
-	'LBL_SAVE_ORDER'=>'Save Order',
-	'LBL_ADD_NEW_DASHBOARD'=>'Add new dashboard',
-	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => 'Maximum 30 characters are allowed for dashboard name.',
+	'HDB' => 'داشبورد صفحه اصلی',
+	'OLTPO' => 'بالا ترین سفارش خرید',
+	'LTFAQ' => 'سوالات متداول جدید من',
+	'UA' => 'فعالیت های آینده',
+	'PA' => 'فعالیت هاید در حال پیکربندی',
+    'Home'=> 'داشبورد',
+	'LBL_SAVE_ORDER'=>'ذخیره سفارش',
+	'LBL_ADD_NEW_DASHBOARD'=>'اضافه کردن داشبورد جدید',
+	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => 'حد اکثر 30 عدد واژه برای نام داشبورد مجاز اند.',
 );
 
 $jsLanguageStrings = array(
-	'JS_TAB_NAME_SHOULD_NOT_BE_EMPTY' => 'Dashboard name cannot not be empty',
-	'JS_NO_DATA_AVAILABLE' => 'No data available',
+	'JS_TAB_NAME_SHOULD_NOT_BE_EMPTY' => 'نام داشبورد نمیتواند خالی باشد',
+	'JS_NO_DATA_AVAILABLE' => 'هیچ دیتایی در دسترس نیست',
 );
