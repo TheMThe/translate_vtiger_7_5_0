@@ -9,43 +9,43 @@
  *************************************************************************************/
 $languageStrings = array(
     
-    'Invoice'   =>  'Invoices',
+    'Invoice'   =>  'فاکتور ها',
 	//DetailView Actions
-	'SINGLE_Invoice' => 'Invoice',
-	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
-    'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
+	'SINGLE_Invoice' => 'فاکتور',
+	'LBL_EXPORT_TO_PDF' => 'استخراج به پی دی اف',
+    'LBL_SEND_MAIL_PDF' => 'ارسال ایمیل بصورت پی دی اف',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Add Invoice',
-	'LBL_RECORDS_LIST' => 'Invoice List',
+	'LBL_ADD_RECORD' => 'اضافه کردن فاکتور',
+	'LBL_RECORDS_LIST' => 'لیست هاکوتور ها',
 
 	// Blocks
-	'LBL_INVOICE_INFORMATION' => 'Invoice Details',
+	'LBL_INVOICE_INFORMATION' => 'جزئیات فاکتور',
 
 	//Field labels
-	'Sales Order' => 'Sales Order',
-	'Customer No' => 'Customer No',
-	'Invoice Date' => 'Invoice Date',
-	'Purchase Order' => 'Purchase Order',
-	'Sales Commission' => 'Sales Commission',
-	'Invoice No' => 'Invoice No',
-	'LBL_RECEIVED' => 'Received',
+	'Sales Order' => 'ترتیب فروش ها',
+	'Customer No' => 'شماره مشتری',
+	'Invoice Date' => 'تاریخ فاکتور',
+	'Purchase Order' => 'ترتیب خرید',
+	'Sales Commission' => 'کمیسیون فروش',
+	'Invoice No' => 'شمراه فاکتور',
+	'LBL_RECEIVED' => 'دریافت شده',
 	'LBL_BALANCE' => 'Balance',
 	//Added for existing Picklist Entries
 
-	'Sent'=>'Sent',
+	'Sent'=>'ارسال شده',
 	'Credit Invoice'=>'Credit Invoice',
-	'Paid'=>'Paid',
-	'AutoCreated'=>'AutoCreated',
-	'Cancel' => 'Cancel',
+	'Paid'=>'پرداخت شده',
+	'AutoCreated'=>'ساخته شده بصورت خودکار',
+	'Cancel' => 'لغو',
 	
 	//Translation for product not found
-	'LBL_THIS' => 'This',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'is deleted from the system.please remove or replace this item',
+	'LBL_THIS' => 'این',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'حذف شده توسط سیستم لطفا آیتم را اضافه یا جایگزین کنید',
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'This line item is deleted from the system,please remove this line items',
-	'LBL_NOT_A_BUNDLE' => 'Not a Bundle',
-	'LBL_SUB_PRODUCTS'	=> 'Sub Products',
-	'LBL_ACTION'	=> 'Action',
+	'LBL_NOT_A_BUNDLE' => 'مجموعه نیست',
+	'LBL_SUB_PRODUCTS'	=> 'محصولات جایگزین',
+	'LBL_ACTION'	=> 'فعالیت',
 );
 
 $jsLanguageStrings = array(

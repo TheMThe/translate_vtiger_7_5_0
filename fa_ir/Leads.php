@@ -9,64 +9,64 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Leads' => 'Leads',
-	'SINGLE_Leads' => 'Lead',
-	'LBL_RECORDS_LIST' => 'Leads List',
-	'LBL_ADD_RECORD' => 'Add Lead',
+	'Leads' => 'سرپرست ها',
+	'SINGLE_Leads' => 'سرپرست',
+	'LBL_RECORDS_LIST' => 'لیست سرپرست ها',
+	'LBL_ADD_RECORD' => 'اضافه کردن سرپرست',
 
 	// Blocks
-	'LBL_LEAD_INFORMATION' => 'Lead Details',
+	'LBL_LEAD_INFORMATION' => 'جزئیات سرپرست',
 
 	//Field Labels
-	'Lead No' => 'Lead Number',
-	'Company' => 'Company',
-	'Designation' => 'Designation',
-	'Website' => 'Website',
-	'Industry' => 'Industry',
-	'Lead Status' => 'Lead Status',
-	'No Of Employees' => 'Number of Employees',
-	'Phone' => 'Primary Phone',
-	'Secondary Email' => 'Secondary Email',
-	'Email' => 'Primary Email',
+	'Lead No' => 'شماره سرپرست',
+	'Company' => 'شرکت',
+	'Designation' => 'تخصص',
+	'Website' => 'وبسایت',
+	'Industry' => 'صنعت',
+	'Lead Status' => 'جزئیات سرپرست',
+	'No Of Employees' => 'تعداد کارمندان',
+	'Phone' => 'تلفن اصلی',
+	'Secondary Email' => 'ایمیل جایگزین',
+	'Email' => 'ایمیل اصلی',
 
 	//Added for Existing Picklist Entries
 
-	'--None--'=>'--None--',
-	'Mr.'=>'Mr.',
-	'Ms.'=>'Ms.',
-	'Mrs.'=>'Mrs.',
-	'Dr.'=>'Dr.',
-	'Prof.'=>'Prof.',
+	'--None--'=>'--هیچ--',
+	'Mr.'=>'آقای ',
+	'Ms.'=>'خانم',
+	'Mrs.'=>'خانم.',
+	'Dr.'=>'دکتر',
+	'Prof.'=>'پروفسور',
 
 	//Lead Status Picklist values
-	'Attempted to Contact'=>'Attempted to Contact',
-	'Cold'=>'Cold',
-	'Contact in Future'=>'Contact in Future',
-	'Contacted'=>'Contacted',
-	'Hot'=>'Hot',
+	'Attempted to Contact'=>'شروع به ارتباط',
+	'Cold'=>'سرد',
+	'Contact in Future'=>'ارتباط در آینده',
+	'Contacted'=>'ارتباط شده',
+	'Hot'=>'داغ',
 	'Junk Lead'=>'Junk Lead',
-	'Lost Lead'=>'Lost Lead',
-	'Not Contacted'=>'Not Contacted',
-	'Pre Qualified'=>'Pre Qualified',
-	'Qualified'=>'Qualified',
-	'Warm'=>'Warm',
+	'Lost Lead'=>'سرپرست گم شده',
+	'Not Contacted'=>'مرتبط نشده',
+	'Pre Qualified'=>'نیمه تایید شده',
+	'Qualified'=>'تایید شده',
+	'Warm'=>'گرم',
 
 	// Mass Action
-	'LBL_CONVERT_LEAD' => 'Convert Lead',
+	'LBL_CONVERT_LEAD' => 'اضافه کردن سرپرست',
 
 	//Convert Lead
-	'LBL_TRANSFER_RELATED_RECORD' => 'Transfer related record to',
-	'LBL_CONVERT_LEAD_ERROR' => 'You have to enable either Organization or Contact to convert the Lead',
+	'LBL_TRANSFER_RELATED_RECORD' => 'رکورد های مرتبط را انتقال بده به',
+	'LBL_CONVERT_LEAD_ERROR' => 'شما باید شرکت یا مخاطب را برای اضافه کردن سرپرست فعال کنید',
 	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Leads Field Mapping is incomplete(Settings > Module Manager > Leads > Leads Field Mapping)',
 	'LBL_LEADS_FIELD_MAPPING' => 'Leads Field Mapping',
 
 	//Leads Custom Field Mapping
 	'LBL_CUSTOM_FIELD_MAPPING'=> 'Lead Conversion Data Mapping',
-	'LBL_IMAGE_INFORMATION' => 'Profile Picture',
-	'Lead Image' => 'Lead Image',
+	'LBL_IMAGE_INFORMATION' => 'عکس پروفایل',
+	'Lead Image' => 'عکس سرپرست',
 );
 $jsLanguageStrings = array(
-	'JS_SELECT_CONTACTS' => 'Select Contacts to proceed',
-	'JS_SELECT_ORGANIZATION' => 'Select Organization to proceed',
-	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Conversion requires selection of Contact or Organization'
+	'JS_SELECT_CONTACTS' => 'برای ادامه مخاطب ها را انتخاب کنید',
+	'JS_SELECT_ORGANIZATION' => 'برای ادامه شرکت را انتخاب کنید',
+	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'گفت و گو نیازمند انتخاب مخاطب یا شرکن می باشد'
 );
