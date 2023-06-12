@@ -8,20 +8,20 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CronTasks' => 'Scheduler',
+	'CronTasks' => 'برنامه ریز',
 
 	//Basic Field Names
 	'Id' => 'Id',
 	'Cron Job' => 'Cron Job',
-	'Frequency' => 'Frequency',
-	'Status' => 'Status',
-	'Last Start' => 'Last scan started',
-	'Last End' => 'Last scan ended',
-	'Sequence' => 'Sequence',
+	'Frequency' => 'ارز',
+	'Status' => 'وضعیت',
+	'Last Start' => 'اسکن آخر شروع شد',
+	'Last End' => 'اسکن آخر تمام شد',
+	'Sequence' => 'ترتیب',
 
 	//Actions
-	'LBL_COMPLETED' => 'Completed',
-	'LBL_RUNNING' => 'Running',
-	'LBL_ACTIVE' => 'Active',
-	'LBL_INACTIVE' => 'In Active',
+	'LBL_COMPLETED' => 'تمام شده',
+	'LBL_RUNNING' => 'در حال اجرا',
+	'LBL_ACTIVE' => 'فعال',
+	'LBL_INACTIVE' => 'غیر فعال',
 );
