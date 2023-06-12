@@ -9,20 +9,20 @@
  * ***********************************************************************************/
 
 $languageStrings = array(
-	'CustomerPortal' => 'Customer Portal',
-	'LBL_PORTAL_DESCRIPTION' => 'Setup Privileges of Portal User',
+	'CustomerPortal' => 'درگاه مشتری',
+	'LBL_PORTAL_DESCRIPTION' => 'تنظیم کردن مزایای درگاه مشتری',
 
-	'LBL_PRIVILEGES' => 'Privileges',
-	'LBL_DEFAULT_ASSIGNEE' => 'Default Assignee',
+	'LBL_PRIVILEGES' => 'مزایا',
+	'LBL_DEFAULT_ASSIGNEE' => 'مامور پیشفرض',
 	'LBL_PORTAL_URL' => 'Portal Url',
 
 	//Fields
-	'LBL_MODULE_NAME' => 'Module Name',
-	'LBL_ENABLE_MODULE' => 'Enable Module',
-	'LBL_VIEW_ALL_RECORDS' => 'See Records across Organization',
+	'LBL_MODULE_NAME' => 'نام مدال',
+	'LBL_ENABLE_MODULE' => 'فعال کردن مدال',
+	'LBL_VIEW_ALL_RECORDS' => 'دیدن رکورد های شرکت',
 
 	//Messages
-	'LBL_PREVILEGES_MESSAGE' => "This User's privileges will be applied to the Portal User.",
+	'LBL_PREVILEGES_MESSAGE' => "امتیازات این کاربر در درگاه کاربری اش اضافه میشوند.",
 	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Tickets will be Assigned to the selected Assignee by the default Group/User from the Customer Portal.',
 	'LBL_PORTAL_URL_MESSAGE' => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more.',
 	'LBL_CONTACTS_ENABLE_MESSAGE' => 'Contacts will be sent the login details when Portal access is enabled from Contact details page.',

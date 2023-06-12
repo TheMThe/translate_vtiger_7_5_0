@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	//Basic Field Names
-	'LBL_NEW' => 'New',
+	'LBL_NEW' => 'جدید',
 	'LBL_WORKFLOW' => 'Workflow',
 	'LBL_CREATING_WORKFLOW' => 'Creating WorkFlow',
 	'LBL_EDITING_WORKFLOW' => 'Editing Workflow',

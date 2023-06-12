@@ -155,6 +155,6 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_CURRENCY_DETAILS_SAVED' => 'Currency Details Saved',
-	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Currency Deleted Successfully',
+	'JS_CURRENCY_DETAILS_SAVED' => 'جزئیات ارز ها ذخیره شد',
+	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'ارز با موقفیت حذف شد',
 );
