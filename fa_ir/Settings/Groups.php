@@ -8,19 +8,19 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_TRANSFORM_OWNERSHIP' => 'Transfer ownership',
-	'SINGLE_Groups' => 'Group',
-	'LBL_TO_OTHER_GROUP' => 'To Other Group ',
-	'LBL_ADD_RECORD' => 'Add Group',
-	'LBL_GROUP_NAME' => 'Group Name',
-	'LBL_GROUP_MEMBERS' => 'Group Members',
-	'LBL_ROLEANDSUBORDINATE' => 'Role and Subordinates',
-	'RoleAndSubordinates' => 'Role and Subordinates',
-	'LBL_DUPLICATES_EXIST' => 'Group Name already Exists',
+	'LBL_TRANSFORM_OWNERSHIP' => 'انتقال مالکیت ',
+	'SINGLE_Groups' => 'گروه ',
+	'LBL_TO_OTHER_GROUP' => 'به گروه های دیگر ',
+	'LBL_ADD_RECORD' => 'اضافه کردن گروه',
+	'LBL_GROUP_NAME' => 'نام گروه',
+	'LBL_GROUP_MEMBERS' => 'اعضای گروه',
+	'LBL_ROLEANDSUBORDINATE' => 'نقش ها وتوابع',
+	'RoleAndSubordinates' => 'نقش و تابع',
+	'LBL_DUPLICATES_EXIST' => 'نام گروه از قبل وجود دارد',
 );
 $jsLanguageStrings = array(
-	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Please select atleast one member for a group',
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Group deleted successfully',
-	'JS_COMMA_NOT_ALLOWED_GROUP' => 'Special characters like ,"<> are not allowed in Group Name.',
+	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'لطفا حداقل یک عدد برای گروه انتخاب کنید',
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'گروه با موفقیت حذف شد',
+	'JS_COMMA_NOT_ALLOWED_GROUP' => 'کاراکتر های مخصوص مثل : ,"<> در نام گروه مجاز نیستند.',
 );
 
