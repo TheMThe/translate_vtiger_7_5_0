@@ -10,9 +10,9 @@
 $languageStrings = array(
 	//Actions
 	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convert Lead Mapping',
-	'LBL_ORGANIZATIONS' => 'Organizations',
-	'LBL_CONTACTS' => 'Contacts',
-	'LBL_OPPURTUNITIES' => 'Oppurtunities',
+	'LBL_ORGANIZATIONS' => 'شرکت',
+	'LBL_CONTACTS' => 'مخاطبین',
+	'LBL_OPPURTUNITIES' => 'فرصت ها',
 );
 $jsLanguageStrings = array(
 );

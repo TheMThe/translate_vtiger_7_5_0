@@ -199,8 +199,8 @@ $jsLanguageStrings = array(
     'JS_TAB_TAB_DELETION' => 'این حذف میکند تب%s را در مودال%s و داده هایش را می خواهیدادامه دهید؟?',
     'JS_SHOW_THIS_FIELD_IN' => 'اینجا کلیک کنید برای نمایش این فیلد در نمای %s ',
     'JS_MAKE_THIS_FIELD' => 'اینجا کلیک کنید تا این فیلد را%s کنید',
-    'JS_HIDE_THIS_FIELD_IN' => 'Click here to hide this field in %s view',
-    'JS_NOT_MAKE_THIS_FIELD' => 'Click here to make this field non-%s',
+    'JS_HIDE_THIS_FIELD_IN' => 'کلیک کنید تا این فیلد را در نمای%s پنهان کنید',
+    'JS_NOT_MAKE_THIS_FIELD' => 'کلیک کنید تا non-%s',
     'JS_TAB_NAME_HELP_TEXT' => 'List of %s shown in %s record',
     'JS_TAB_NAME_TEXT' => 'Tab name of %s in %s record',
     'JS_FILED_NAME_HELP_TEXT' => 'A Reference field to %s in %s record will be added',
@@ -209,9 +209,9 @@ $jsLanguageStrings = array(
     'JS_SUMMARY' => 'Summary',
     'JS_KEY_FIELD' => 'Key Field',
     
-    'JS_QUICK_CREATE' => 'Quick Create',
-    'JS_MASS_EDIT' => 'Mass Edit',
-    'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'This operation will result in permanent removal of data.
+    'JS_QUICK_CREATE' => 'ساخت سریع',
+    'JS_MASS_EDIT' => 'ادیت بزرگ',
+    'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'نتیجه ی این عملیات حذف شدن تمام دیتاست.
                                                  When a field is deleted, values stored in this field will be deleted, and cannot be retrieved.
                                                  If you are not sure and want to be able to view this data in the future, you can mark the field as Inactive instead of deleting it. Inactive fields can later be activated at any time.
                                                  Are you sure to delete this field?',
