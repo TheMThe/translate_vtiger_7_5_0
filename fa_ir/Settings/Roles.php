@@ -9,39 +9,39 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Roles' => 'Roles',
-	'SINGLE_Roles' => 'Role',
-	'LBL_ADD_RECORD' => 'Add Role',
-	'LBL_DELETE_ROLE' => 'Delete Role',
-	'LBL_TRANSFER_OWNERSHIP' => 'Transfer Ownership',
-	'LBL_TO_OTHER_ROLE' => 'To other Role',
+	'Roles' => 'نقش ها',
+	'SINGLE_Roles' => 'نقش',
+	'LBL_ADD_RECORD' => 'اضافه کردن نقش',
+	'LBL_DELETE_ROLE' => 'حذف نقش',
+	'LBL_TRANSFER_OWNERSHIP' => 'انتقال مالکیت',
+	'LBL_TO_OTHER_ROLE' => 'به نقش های دیگر',
 	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE' => 'Click to edit/Drag to move',
-	'LBL_ASSIGN_ROLE' => 'Assign Role',
-	'LBL_CHOOSE_PROFILES' => 'Choose profiles',
-	'LBL_COPY_PRIVILEGES_FROM' => 'Copy privileges from',
-    'LBL_TRANSFER_TO_OTHER_ROLE' =>'Transfer ownership to other role',
+	'LBL_ASSIGN_ROLE' => 'نسیت دادن نقش',
+	'LBL_CHOOSE_PROFILES' => 'انتخاب پروفایل ها',
+	'LBL_COPY_PRIVILEGES_FROM' => 'کپی امتیاز ها از',
+    'LBL_TRANSFER_TO_OTHER_ROLE' =>'انتقال مالکیت به نقش های دیگر',
 	
 	//Edit View
-	'LBL_PROFILE' => 'Profile',
-	'LBL_REPORTS_TO' => 'Reports To',
-	'LBL_NAME' => 'Name',
-	'LBL_ASSIGN_NEW_PRIVILEGES' => 'Assign privileges directly to Role',
-	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'Assign priviliges from existing profiles',
-	'LBL_PRIVILEGES' => 'Privileges',
-	'LBL_DUPLICATES_EXIST' => 'Duplicate Role Exists',
+	'LBL_PROFILE' => 'پروفایل',
+	'LBL_REPORTS_TO' => 'گزارش میدهد به',
+	'LBL_NAME' => 'نام',
+	'LBL_ASSIGN_NEW_PRIVILEGES' => 'نسبت دادن مستقیم امتیاز ها به نقش',
+	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'نسبت دادن امتیاز ها از پروفایل موجود',
+	'LBL_PRIVILEGES' => 'امتیاز ها',
+	'LBL_DUPLICATES_EXIST' => 'نقش از قبل وجود دارد',
 	
 	//Assign Records to
-	'LBL_CAN_ASSIGN_RECORDS_TO' => 'Can Assign Records To',
-	'LBL_ALL_USERS' => 'All Users',
+	'LBL_CAN_ASSIGN_RECORDS_TO' => 'میتواند رکورد را نسبت دهد به',
+	'LBL_ALL_USERS' => 'همه کاربران',
 	'LBL_USERS_WITH_LOWER_LEVEL' => 'Users having Subordinate Role',
 	'LBL_USERS_WITH_SAME_OR_LOWER_LEVEL' => 'Users having Same Role or Subordinate Role',
     
     /*Vtiger7 String*/
-    'LBL_EDIT_ROLE' => 'Edit Role',
-	'LBL_CREATE_ROLE' => 'Create Role',
+    'LBL_EDIT_ROLE' => 'ویرایش نقش',
+	'LBL_CREATE_ROLE' => 'ساخت نقش',
 );
 
 $jsLanguageStrings = array(
-	'JS_PERMISSION_DENIED' => 'Permissions Denied',
-	'JS_NO_PERMISSIONS_TO_MOVE' => 'No Permissions to Move',
+	'JS_PERMISSION_DENIED' => 'اجازه رد شد',
+	'JS_NO_PERMISSIONS_TO_MOVE' => 'برای جابجایی مجاز نیست',
 );
