@@ -9,10 +9,10 @@
  * All Rights Reserved.
  * *********************************************************************************** */
 $languageStrings = array(
-    'LBL_SELECT_ONE' => 'Select',
+    'LBL_SELECT_ONE' => 'انتخاب',
     'LBL_PBXMANAGER' =>'PBXManager',
-    'LBL_PBXMANAGER_CONFIG' => 'Asterisk Server Details',
-    'LBL_NOTE' => 'Note:',
+    'LBL_PBXMANAGER_CONFIG' => 'جزئیات سرور ستاره',
+    'LBL_NOTE' => 'یادداشت:',
     'LBL_INFO_WEBAPP_URL' => 'Configure your Asterisk App URL in the  format', 
     'LBL_FORMAT_WEBAPP_URL' => '(protocol)://(asterisk_ip):(VtigerConnector_port)',
     'LBL_FORMAT_INFO_WEBAPP_URL' => 'ex:http://0.0.0.0:5000',
