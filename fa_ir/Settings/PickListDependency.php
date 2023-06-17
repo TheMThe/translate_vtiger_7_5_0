@@ -8,19 +8,19 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Add Picklist Dependency',
-    'PickListDependency' => 'PickList Dependency',
-	'LBL_PICKLIST_DEPENDENCY' => 'Picklist Dependency',
-	'LBL_SELECT_MODULE' => 'Module',
-	'LBL_SOURCE_FIELD' => 'Source Field',
-	'LBL_TARGET_FIELD' => 'Target Field',
-	'LBL_SELECT_FIELD' => 'Select field',
+	'LBL_ADD_RECORD' => 'اضافه کردن دیپندنسی لیست انتخابی',
+    'PickListDependency' => 'دیپندنسی لیست انتخابی',
+	'LBL_PICKLIST_DEPENDENCY' => 'دیپندنسی لیستانتخابی',
+	'LBL_SELECT_MODULE' => 'مودال',
+	'LBL_SOURCE_FIELD' => 'فیلد منبع',
+	'LBL_TARGET_FIELD' => 'فیلد هدف',
+	'LBL_SELECT_FIELD' => 'فیلد انتخاب شده',
 	'LBL_CONFIGURE_DEPENDENCY_INFO' => 'Click on the respective cell to change the mapping for picklist values of target field',
 	'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'Only mapped picklist values of the Source field will be shown below (except for first time)',
 	'LBL_CONFIGURE_DEPENDENCY_HELP_2' => "If you want to see or change the mapping for the other picklist values of Source field, <br/>
 										then you can select the values by clicking on <b>'Select Source values'</b> button on the right side",
 	'LBL_CONFIGURE_DEPENDENCY_HELP_3' => 'Selected values of the Target field values, are highlighted as',
-	'LBL_SELECT_SOURCE_VALUES' => 'Select Source Values',
+	'LBL_SELECT_SOURCE_VALUES' => 'انتخاب ارزش های منبع',
 	'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'Select Source Picklist Values',
 	'LBL_ERR_CYCLIC_DEPENDENCY' => 'This dependency setup is not allowed as it ends up in some cyclic dependency',
 	'LBL_SELECT_ALL_VALUES' => 'Select All',
