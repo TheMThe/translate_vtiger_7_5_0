@@ -8,13 +8,13 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-    'SharingAccess' => 'Sharing Rules',
-	'Accounts' => 'Organizations & Contacts',
-	'LBL_ADD_CUSTOM_RULE' => 'Add Custom Rule',
-	'Read Only' => 'Read Only',
-	'Read Write' => 'Read/Write',
-	'LBL_ADD_CUSTOM_RULE_TO' => 'Add Custom Rule to',
-	'LBL_CAN_ACCESSED_BY' => 'Can be accessed by',
+    'SharingAccess' => 'قوانین مشترک',
+	'Accounts' => 'شرکت ها و مخاطب ها',
+	'LBL_ADD_CUSTOM_RULE' => 'اضافه کردن قانون شخصی',
+	'Read Only' => 'فقط خواندن',
+	'Read Write' => 'خواندن/نوشتن',
+	'LBL_ADD_CUSTOM_RULE_TO' => 'اضافه کردن قانون شخصی به',
+	'LBL_CAN_ACCESSED_BY' => 'میتواند دسترسی پی',
 	'LBL_PRIVILEGES' => 'Privileges',
 	'LBL_SHARING_RULE' =>  'Sharing Rules',
 	'LBL_RULE_NO' => 'Rule Number',
