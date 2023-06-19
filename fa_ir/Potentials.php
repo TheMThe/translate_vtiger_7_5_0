@@ -9,66 +9,66 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Potentials' => 'Opportunities',
-	'SINGLE_Potentials' => 'Opportunity',
-	'LBL_ADD_RECORD' => 'Add Opportunity',
-	'LBL_RECORDS_LIST' => 'Opportunities List',
+	'Potentials' => 'فرصت ها',
+	'SINGLE_Potentials' => 'فرصت',
+	'LBL_ADD_RECORD' => 'اضافه کردن فرصت',
+	'LBL_RECORDS_LIST' => 'لیست فرصت ها',
 
 	// Blocks
-	'LBL_OPPORTUNITY_INFORMATION' => 'Opportunity Details',
+	'LBL_OPPORTUNITY_INFORMATION' => 'جزئیات فرصت',
 
 	//Field Labels
-	'Potential No' => 'Opportunity Number',
-	'Amount' => 'Amount',
-	'Next Step' => 'Next Step',
-	'Sales Stage' => 'Sales Stage',
-	'Probability' => 'Probability',
-	'Campaign Source' => 'Campaign Source',
-	'Forecast Amount' => 'Weighted Revenue',
-	'Related To' => 'Organization Name',
-	'Contact Name' => 'Contact Name',
-        'Type' => 'Type',
+	'Potential No' => 'شماره فرصت',
+	'Amount' => 'مقدار',
+	'Next Step' => 'قدم بعد',
+	'Sales Stage' => 'انتخاب استیج',
+	'Probability' => 'احتمالات',
+	'Campaign Source' => 'کمپین منبع',
+	'Forecast Amount' => 'نفع سنگین',
+	'Related To' => 'نام شرکت',
+	'Contact Name' => 'نام مخاطب',
+        'Type' => 'نوع',
 	
 	//Dashboard widgets
-	'Funnel' => 'Sales Funnel',
-	'Potentials by Stage' => 'Opportunities by Stage',
-	'Total Revenue' => 'Revenue by Salesperson',
-	'Top Potentials' => 'Top Opportunities',
-	'Forecast' => 'Sales Forecast',
+	'Funnel' => 'باریک شدن فروش',
+	'Potentials by Stage' => 'فرصت هایی با استیج',
+	'Total Revenue' => 'نفع توسط فروشنده',
+	'Top Potentials' => 'فرصت های برتر',
+	'Forecast' => 'پیش بینی فروش',
 
 	//Added for Existing Picklist Strings
 
-	'Prospecting'=>'Prospecting',
-	'Qualification'=>'Qualification',
-	'Needs Analysis'=>'Needs Analysis',
-	'Value Proposition'=>'Value Proposition',
-	'Id. Decision Makers'=>'Identify Decision Makers',
-	'Perception Analysis'=>'Perception Analysis',
+	'Prospecting'=>'آینده نگری',
+	'Qualification'=>'شرط',
+	'Needs Analysis'=>'احتیاج به انالیزور',
+	'Value Proposition'=>'ارزش چشم انداز',
+	'Id. Decision Makers'=>'شناخت تصمیم گیران',
+	'Perception Analysis'=>'درک آنالیزور',
 	'Proposal/Price Quote'=>'Proposal/Quotation',
-	'Negotiation/Review'=>'Negotiation/Review',
-	'Closed Won'=>'Closed Won',
-	'Closed Lost'=>'Closed Lost',
+	'Negotiation/Review'=>'مذاکرات/بازدید',
+	'Closed Won'=>'برد تمام شده',
+	'Closed Lost'=>'باخت تمام شده',
 
 	'--None--'=>'--None--',
-	'Existing Business'=>'Existing Business',
-	'New Business'=>'New Business',
-	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Expected to close on',
+	'Existing Business'=>'بیزنس موجود',
+	'New Business'=>'بیزینس جدید',
+	'LBL_EXPECTED_CLOSE_DATE_ON' => 'انتظار میرود که بسته شود در',
 
 	//widgets headers
-	'LBL_RELATED_CONTACTS' => 'Related Contacts',
-	'LBL_RELATED_PRODUCTS' => 'Related Products',
+	'LBL_RELATED_CONTACTS' => 'مخاطبین مربوط',
+	'LBL_RELATED_PRODUCTS' => 'محصولات مربوط',
     
     //Convert Potentials
-    'LBL_CONVERT_POTENTIAL' => 'Convert Opportunity',
-	'LBL_CREATE_PROJECT' => 'Create Project',
-    'LBL_POTENTIALS_FIELD_MAPPING' => 'Opportunities Field Mapping',
-    'LBL_CONVERT_POTENTIALS_ERROR' => 'You have to enable Project to convert the Opportunity',
+    'LBL_CONVERT_POTENTIAL' => 'تغییر فرصت ها',
+	'LBL_CREATE_PROJECT' => 'ساخت پروژه',
+    'LBL_POTENTIALS_FIELD_MAPPING' => 'فرصت  های شکست خورده در برنامه ریزی',
+    'LBL_CONVERT_POTENTIALS_ERROR' => 'شما باید پروژه را فعال کنید تا فرصت ها را تغییر دهید',
     'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'Opportunities Field Mapping is incomplete(Settings > Module Manager > Opportunities > Opportunities Field Mapping)',
     
     //Potentials Custom Field Mapping
-	'LBL_CUSTOM_FIELD_MAPPING'=> 'Opportunity to Project mapping',
+	'LBL_CUSTOM_FIELD_MAPPING'=> 'برنامه ریزی فرصت به',
 );
 
 $jsLanguageStrings = array(
-	'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'Conversion requires selection of Project',
+	'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'تغییر دادن نیازمند انتخاب پروژه است',
 );

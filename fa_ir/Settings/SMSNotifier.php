@@ -8,22 +8,22 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'isactive' => 'Active',
-	'LBL_ADD_CONFIGURATION' => 'New Configuration',
-	'LBL_ADD_RECORD' => 'New Configuration',
-	'LBL_EDIT_CONFIGURATION' => 'Edit Configuration',
-	'LBL_SELECT_ONE' => 'Select One',
-	'password' => 'Password',
-	'providertype' => 'Provider',
-	'SMSNotifier' => 'SMS Provider Configuration',
-	'username' => 'User Name',
-        'ClickATellNew' => 'Clickatell (Platform)',
-        'ClickATell' => 'Clickatell (Communicator/Central)',
+	'isactive' => 'فعال',
+	'LBL_ADD_CONFIGURATION' => 'پیکربندی جدید',
+	'LBL_ADD_RECORD' => 'پیکربندی جدید',
+	'LBL_EDIT_CONFIGURATION' => 'ویرایش پیکربندی',
+	'LBL_SELECT_ONE' => 'انتخاب یک',
+	'password' => 'پسوورد',
+	'providertype' => 'ارائه دهنده',
+	'SMSNotifier' => 'پیکربندی ارائه دهنده ی اس ام اس',
+	'username' => 'نام کاربری',
+        'ClickATellNew' => 'کلیک تال (پلتفرم)',
+        'ClickATell' => 'کلیک تال (ارتباط گیرنده/مرکزی)',
         'LBL_CLICKATELLNEW_CALLBACKURL_INFO' => "Please copy this URL to the 'Enable delivery notifications' field in your ClickATell SMS Integration Settings page",
 );
 
 $jsLanguageStrings = array(
-	'JS_CONFIGURATION_SAVED' => 'SMS Provider Configurations saved',
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'SMS Provider Deleted Successfully',
-	'LBL_DELETE_CONFIRMATION' => 'Are you sure, you want to delete this SMSNotifier Configuration?',
+	'JS_CONFIGURATION_SAVED' => 'پیکربندی ارائه دهنده اس ام اس با موفقیت ذخیره شد',
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'ارائه دهنده اس ام اس با موفقیت حذف شد',
+	'LBL_DELETE_CONFIRMATION' => 'مطمئن هستید که میخواهید پیکربندی یاد آور اسم ام اس را حذف کنید',
 );	

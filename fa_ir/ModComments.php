@@ -9,22 +9,22 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ModComments' => 'Comment',
-	'LBL_RECORDS_LIST' => 'Comments List',
+	'SINGLE_ModComments' => 'نظر',
+	'LBL_RECORDS_LIST' => 'لیست نظرات',
 
 	// Blocks
-	'LBL_MODCOMMENTS_INFORMATION' => 'Comments',
-	'LBL_OTHER_INFORMATION' => 'Other Information',
+	'LBL_MODCOMMENTS_INFORMATION' => 'نظرات',
+	'LBL_OTHER_INFORMATION' => 'اطلاعات دیگر',
 
-	'LBL_ADDING_COMMENT' => 'Adding Comment',
-	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Enter comments here',
+	'LBL_ADDING_COMMENT' => 'اضافه کردن نظر',
+	'LBL_WRITE_YOUR_COMMENT_HERE' => 'نظر را اینجا وارد کنید',
 	
 	//Field Labels
-	'Comment' => 'Comment',
-	'Creator' => 'Creator',
-	'Related To Comments' => 'Related To',
+	'Comment' => 'نظر',
+	'Creator' => 'سازنده',
+	'Related To Comments' => 'مربوط به',
 	
 	//other
-	'LBL_COMMENTED_AT' => 'Commented at'
+	'LBL_COMMENTED_AT' => 'نظر داده شده در'
 	
 );

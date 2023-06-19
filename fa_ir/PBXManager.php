@@ -8,33 +8,33 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Asterisk' => 'Asterisk',
-	'Call From'=>'Call From',
-	'Call To'=>'Call To',
-	'LBL_CALL_INFORMATION' => 'Call Details',
+	'Asterisk' => 'نشان',
+	'Call From'=>'تماس از',
+	'Call To'=>'تماس به',
+	'LBL_CALL_INFORMATION' => 'جزئیات تماس',
 	'PBXManager ID'=>'PBX Manager ID',
 	'PBXManager' => 'PBX Manager',
 	'SINGLE_PBXManager' => 'PBX Manager',
-	'Time Of Call'=>'Time Of Call',
+	'Time Of Call'=>'زمان تماس',
     //Blocks
-    'LBL_PBXMANAGER_INFORMATION' => 'Call Details',
-    'LBL_CUSTOM_INFORMATION'=>'Custom Information',
+    'LBL_PBXMANAGER_INFORMATION' => 'جزئیات تماس',
+    'LBL_CUSTOM_INFORMATION'=>'اطلاعات شخصی',
     
     // list view settings links
-    'LBL_SERVER_CONFIGURATION' => 'Provider Configuration',
+    'LBL_SERVER_CONFIGURATION' => 'پیکربندی ارائه دهنده',
     
     //Detail view header title
-    'LBL_CALL_FROM' => 'Call From',
-    'LBL_CALL_TO' => 'Call To',
+    'LBL_CALL_FROM' => 'تماس از',
+    'LBL_CALL_TO' => 'تماس به',
     
     //Incoming call pop-up 
-    'LBL_HIDDEN' => '(HIDDEN)', 
+    'LBL_HIDDEN' => '(مخفی)', 
   
     // Fields
-    'Total Duration' => 'Duration (sec)',
+    'Total Duration' => 'مدت زمان (ثانیه)',
     'Bill Duration'  => 'Bill Duration (sec)',
-    'Recording URL' => 'Recording',
+    'Recording URL' => 'درحال ضبط',
     
-    'SINGLE_PBXManager' => 'Call Record' ,
+    'SINGLE_PBXManager' => 'ضبط تماس' ,
 
 );
