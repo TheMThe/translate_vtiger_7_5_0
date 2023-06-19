@@ -9,25 +9,25 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ProjectMilestone' => 'Project Milestone',
-	'LBL_ADD_RECORD' => 'Add Project Milestone',
-	'LBL_RECORDS_LIST' => 'Project Milestones List',
-    'LBL_PROJECTS_LIST' => 'Projects List',
-	'LBL_TASKS_LIST' => 'Tasks List', 
-    'LBL_MILESTONES_LIST' => 'Milestones List',
+	'SINGLE_ProjectMilestone' => 'نقطه عطف پروژه',
+	'LBL_ADD_RECORD' => 'اضافه کردن نقطه عطف پروژه',
+	'LBL_RECORDS_LIST' => 'لیست نقاط عطف پروژه',
+    'LBL_PROJECTS_LIST' => 'لیست پروژه ها',
+	'LBL_TASKS_LIST' => 'لیست وظایف', 
+    'LBL_MILESTONES_LIST' => 'لیست نقاط عطف',
 
 	// Blocks
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Project Milestone Details',
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'جزئیات نقاط عطف پروژه',
 	
 	//Field Labels
-	'Project Milestone Name' => 'Project Milestone Name',
-	'Milestone Date' => 'Milestone Date',
-	'Project Milestone No' => 'Project Milestone Number',
-        'Type' => 'Type',
-    'Related to' => 'Related To',
+	'Project Milestone Name' => 'نام نقطه عطف پروژه',
+	'Milestone Date' => 'تاریخ نقطه عطف',
+	'Project Milestone No' => 'شماره نقطه عطف پروژه',
+        'Type' => 'نوع',
+    'Related to' => 'مربوط به',
 	//picklist values
 	'administrative' => 'Administrative',
     'operative' => 'Operative',
-    'other' => 'Other',
+    'other' => 'دیگر',
 	
 );
