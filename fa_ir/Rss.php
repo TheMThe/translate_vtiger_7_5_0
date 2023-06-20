@@ -10,21 +10,21 @@
 
 $languageStrings = Array(
     'Rss'=>'Rss',
-    'LBL_RSS_FEED_SOURCES' => 'Rss Feed Sources',
-    'LBL_ADD_FEED_SOURCE' => 'Add Feed Source',
-    'LBL_FEEDS_LIST_FROM' => 'Feeds List From',
-    'LBL_SET_AS_DEFAULT' => 'Set As Default',
-    'LBL_SENDER' => 'Sender',
-    'LBL_FEED_SOURCE' => 'Feed Source',
-    'LBL_ENTER_FEED_SOURCE' => 'Enter Feed Source',
-    'SINGLE_Rss' => 'Rss Feed',
+    'LBL_RSS_FEED_SOURCES' => 'Rss منبع فید',
+    'LBL_ADD_FEED_SOURCE' => 'اضافه کردن منبع فید',
+    'LBL_FEEDS_LIST_FROM' => 'لیست فیدها از',
+    'LBL_SET_AS_DEFAULT' => 'انتخاب بعنوان پیشفرض',
+    'LBL_SENDER' => 'ارسال کننده',
+    'LBL_FEED_SOURCE' => 'منبع فید',
+    'LBL_ENTER_FEED_SOURCE' => 'اضافه کردن منبع فید',
+    'SINGLE_Rss' => 'فید rss',
 );
 
 $jsLanguageStrings = array(
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss Successfully saved',
+	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss با موفقیت ذخیره شد',
     'JS_INVALID_RSS_URL' => 'Invalid Rss Url',
     'JS_RSS_MADE_AS_DEFAULT' => 'Rss Made as Default',
-    'JS_NO_RECORDS' => 'No Records',
+    'JS_NO_RECORDS' => 'بدون رکورد',
 
 );
 

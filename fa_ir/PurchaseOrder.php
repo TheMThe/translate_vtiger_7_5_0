@@ -58,9 +58,9 @@ $jsLanguageStrings = array(
     'JS_ORGANIZATION_NOT_FOUND'=> 'شرکت خالی!',
     'JS_ORGANIZATION_NOT_FOUND_MESSAGE'=> 'لطفا قبل از کپی کردن آدرس شرکت را انتخاب کنید',
 	'JS_ACCOUNT_NOT_FOUND' => 'شرکت خالی!',
-	'JS_ACCOUNT_NOT_FOUND_MESSAGE' =>  'Please select an organization before you copy address',
+	'JS_ACCOUNT_NOT_FOUND_MESSAGE' =>  'لطفا قیل از کپی کردن آدس شرکت را انتخاب کنید',
 	'JS_VENDOR_NOT_FOUND' => 'Vendor Empty', 
 	'JS_VENDOR_NOT_FOUND_MESSAGE' => 'Please select an vendor before you copy address',
-	'JS_CONTACT_NOT_FOUND' => 'Contact Empty', 
-	'JS_CONTACT_NOT_FOUND_MESSAGE' =>  'Please select an contact before you copy address',
+	'JS_CONTACT_NOT_FOUND' => 'مخاطب خالی', 
+	'JS_CONTACT_NOT_FOUND_MESSAGE' =>  'لطفا قبل از کپی کردن آدرس مخاطب راانتخاب کنید',
 );

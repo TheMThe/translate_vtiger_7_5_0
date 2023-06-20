@@ -8,37 +8,37 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Quotes'=>'Quotes',
+	'Quotes'=>'استناد ها',
 	//DetailView Actions
-	'SINGLE_Quotes' => 'Quote',
-	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
-	'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
+	'SINGLE_Quotes' => 'استناد',
+	'LBL_EXPORT_TO_PDF' => 'استخراج به پی دی اف',
+	'LBL_SEND_MAIL_PDF' => 'ارسال ایمیل بصورت پی دی اف',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Add Quote',
-	'LBL_RECORDS_LIST' => 'Quotes List',
+	'LBL_ADD_RECORD' => 'اضافه کردن اتناد',
+	'LBL_RECORDS_LIST' => 'لیست استناد ها',
 
 	// Blocks
 	'LBL_QUOTE_INFORMATION' => 'Quote Details',
 
 	//Field Labels
-	'Quote No'=>'Quote Number',
-	'Quote Stage'=>'Quote Stage',
-	'Valid Till'=>'Valid Until',
-	'Inventory Manager'=>'Inventory Manager',
-	'Related To' => 'Related To',
+	'Quote No'=>'شماره استناد',
+	'Quote Stage'=>'استیج استناج',
+	'Valid Till'=>'معتبر تا',
+	'Inventory Manager'=>'مدیر انبار',
+	'Related To' => 'مربوط به',
 	//Added for existing Picklist Entries
 
-	'Accepted'=>'Accepted',
-	'Rejected'=>'Rejected',
+	'Accepted'=>'قبول شده',
+	'Rejected'=>'رد شده',
 
 	//Translation for product not found
-	'LBL_THIS' => 'This',
+	'LBL_THIS' => 'این',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'is deleted from the system.please remove or replace this item',
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'This line item is deleted from the system,please remove this line items',
 
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Please remove line item that is deleted',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'لطف لاین آیتم خالی را حذف کنید',
 );
