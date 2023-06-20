@@ -9,23 +9,23 @@
  ************************************************************************************/
 
 $languageStrings = Array(
-    'Recycle Bin'=> 'Recycle Bin' ,
-    'RecycleBin' => 'Recycle Bin',
-	'LBL_SELECT_MODULE' => 'Select Module',
-	'LBL_EMPTY_RECYCLEBIN' => 'Empty Recycle Bin',
-	'LBL_RESTORE' => 'Restore',
+    'Recycle Bin'=> 'سطل آشغال' ,
+    'RecycleBin' => 'سطل آشغال',
+	'LBL_SELECT_MODULE' => 'انتخاب مودال',
+	'LBL_EMPTY_RECYCLEBIN' => 'سطل آشغال خالی',
+	'LBL_RESTORE' => 'بازیابی',
 	'LBL_NO_PERMITTED_MODULES' => 'No permitted modules available',
-	'LBL_RECORDS_LIST' => 'Recycle Bin List',
-	'LBL_NO_RECORDS_FOUND' => 'No records found to Restore in module',
+	'LBL_RECORDS_LIST' => 'لیست سطل آشغال',
+	'LBL_NO_RECORDS_FOUND' => 'هیچ رکوردی در مودال سطل آشغال یافت نشد',
 );
 
 $jsLanguageStrings = array(
-	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Are you sure you want to permanently remove all the deleted records from your database?',
-	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Are you sure you want to restore the records?',
-	'JS_RESTORING_RECORDS' => 'Restoring records',
-    'JS_LBL_RESTORE_RECORD_CONFIRMATION' => 'Are you sure you want to restore the record?',
-    'JS_RESTORING_RECORD' => 'Restoring Record',
-    'JS_RESTORE_AND_UNTRASH_FILE_IN_DRIVE' => 'Restore in Vtiger and Drive',
+	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'آیا مطئنید میخواهید هپتمام رکورد های حذف شده در دیتابیس خود را حذف کنید?',
+	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'آیا مطمئن هستید که می خواهید رکورد ها را بازیابی کنید?',
+	'JS_RESTORING_RECORDS' => 'درحال بازیابی رکورد ها',
+    'JS_LBL_RESTORE_RECORD_CONFIRMATION' => 'آیا مطمئن هستید می خواهید رکورد را ازیابی کنید?',
+    'JS_RESTORING_RECORD' => 'درحال بازیابی رکورد',
+    'JS_RESTORE_AND_UNTRASH_FILE_IN_DRIVE' => 'بازیابی در ویتایگر و درایو',
 );
 
 
