@@ -8,48 +8,48 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-    'PurchaseOrder' => 'Purchase Orders',
+    'PurchaseOrder' => 'دستورات خرید',
 	//DetailView Actions
-	'SINGLE_PurchaseOrder' => 'Purchase Order',
-	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
-    'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
+	'SINGLE_PurchaseOrder' => 'دستورات خرید',
+	'LBL_EXPORT_TO_PDF' => 'استخراج به پی دی اف',
+    'LBL_SEND_MAIL_PDF' => 'ارسال ایمیل با پی دی اف',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Add Purchase Order',
-	'LBL_RECORDS_LIST' => 'Purchase Order List',
+	'LBL_ADD_RECORD' => 'اضافه کردن دستور خرید',
+	'LBL_RECORDS_LIST' => 'لیست دستور های خرید',
 	'LBL_COPY_SHIPPING_ADDRESS' => 'Copy Shipping Address',
 	'LBL_COPY_BILLING_ADDRESS' => 'Copy Billing Address',
 
 	// Blocks
-	'LBL_PO_INFORMATION' => 'Purchase Order Details',
+	'LBL_PO_INFORMATION' => 'جزئیات دستور خرید',
 
 	//Field Labels
-	'PurchaseOrder No' => 'Purchase Order Number',
-	'Requisition No' => 'Requisition Number',
-	'Tracking Number' => 'Tracking Number',
-	'Sales Commission' => 'Sales Commission',
-    'LBL_PAID' => 'Paid',
-    'LBL_BALANCE' => 'Balance',
+	'PurchaseOrder No' => 'شماره دستور خرید',
+	'Requisition No' => 'شماره درخواست',
+	'Tracking Number' => 'شماره پیگیری',
+	'Sales Commission' => 'کمیسیون فروش',
+    'LBL_PAID' => 'پرداخت شده',
+    'LBL_BALANCE' => 'بالانس',
 
 	//Added for existing Picklist Entries
 
 	'Received Shipment'=>'Received Shipment',
 	
 	//Translation for product not found
-	'LBL_THIS' => 'This',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'is deleted from the system.please remove or replace this item',
+	'LBL_THIS' => 'این',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'از سیستم حذف شده است لطفا آیتم را حذف یا جایگذاری کنید',
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'This line item is deleted from the system,please remove this line items',
-        'LBL_LIST_PRICE'               => 'List Price',
-        'List Price'                   => 'List Price',
+        'LBL_LIST_PRICE'               => 'لیست قیمت',
+        'List Price'                   => 'لیست قیمت',
     
-    'LBL_COPY_COMPANY_ADDRESS' => 'Copy Company Address',
-    'LBL_COPY_ACCOUNT_ADDRESS' => 'Copy Organization Address',
-	'LBL_SELECT_ADDRESS_OPTION' => 'Select Address to copy',
+    'LBL_COPY_COMPANY_ADDRESS' => 'کپی آدرس شرکت',
+    'LBL_COPY_ACCOUNT_ADDRESS' => 'کپی آدرس سازمان',
+	'LBL_SELECT_ADDRESS_OPTION' => 'انتخاب آرس برای کپی کردن',
 	'LBL_BILLING_ADDRESS' => 'Billing Address',
 	'LBL_COMPANY_ADDRESS' => 'Company Address',
-	'LBL_ACCOUNT_ADDRESS' => 'Organization Address',
+	'LBL_ACCOUNT_ADDRESS' => 'آدرس سازمان',
 	'LBL_VENDOR_ADDRESS' => 'Vendor Address',
-	'LBL_CONTACT_ADDRESS' => 'Contact Address'
+	'LBL_CONTACT_ADDRESS' => 'آدرس مخاطب'
 	
 );
 

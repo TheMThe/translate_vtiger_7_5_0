@@ -9,19 +9,19 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'PriceBooks' => 'Price Books',
-	'SINGLE_PriceBooks' => 'Price Book',
-	'LBL_ADD_RECORD' => 'Add Price Book',
-	'LBL_RECORDS_LIST' => 'Price Books List',
+	'PriceBooks' => 'دفتر قیمت',
+	'SINGLE_PriceBooks' => 'دفتر قیمت',
+	'LBL_ADD_RECORD' => 'اضافه کردن دفتر قیمت',
+	'LBL_RECORDS_LIST' => 'لیست دفتر قیمت',
 
 	// Blocks
-	'LBL_PRICEBOOK_INFORMATION' => 'Price Book Details',
-	'LBL_EDIT_LIST_PRICE' => 'Edit List Price',
+	'LBL_PRICEBOOK_INFORMATION' => 'جزئیات دفتر قیمت',
+	'LBL_EDIT_LIST_PRICE' => 'ویرایش لیست قیمت',
 
 	//Field Labels
-	'Price Book Name' => 'Price Book Name',
-	'PriceBook No' => 'Price Book Number',
+	'Price Book Name' => 'نام دفتر قیمت',
+	'PriceBook No' => 'شماره دفتر قیمت',
 
-	'LBL_UNIT_PRICE' => 'Unit Price',
-	'LBL_ADD_TO' => 'Add to',
+	'LBL_UNIT_PRICE' => 'قیمت یونیت',
+	'LBL_ADD_TO' => 'اضافه به',
 );
