@@ -9,36 +9,36 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Services' => 'Services',
-	'SINGLE_Services' => 'Service',
-	'LBL_ADD_RECORD' => 'Add Service',
-	'LBL_RECORDS_LIST' => 'Services List',
+	'Services' => 'خدمات',
+	'SINGLE_Services' => 'خدمت',
+	'LBL_ADD_RECORD' => 'اضافه کردن سرویس',
+	'LBL_RECORDS_LIST' => 'لیست سرویس',
 
 	// Blocks
-	'LBL_SERVICE_INFORMATION' => 'Service Details',
+	'LBL_SERVICE_INFORMATION' => 'جزئیات خدمات',
 	
-	'LBL_MORE_CURRENCIES' => 'more currencies', 
-	'LBL_PRICES' => 'Service Prices',
-	'LBL_PRICE' => 'Price',
-	'LBL_RESET_PRICE' => 'Reset Price',
-	'LBL_RESET' => 'Reset',
+	'LBL_MORE_CURRENCIES' => 'ارز های بیشتر', 
+	'LBL_PRICES' => 'قیمت خدمات',
+	'LBL_PRICE' => 'قیمت',
+	'LBL_RESET_PRICE' => 'ریست قیمت',
+	'LBL_RESET' => 'ریست',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Add to PriceBooks',
+	'LBL_ADD_TO_PRICEBOOKS' => 'اضافه کردن به دفتر قیمت',
 
 	//Field Labels
-	'Service Name'=>'Service Name',
-	'Service Active'=>'Active',
-	'Service Category'=>'Category',
-	'Service No'=>'Service Number',
-	'Owner'=>'Owner',
-	'No of Units'=>'Number of Units',
-	'Commission Rate'=>'Commission Rate',
-	'Price'=>'Price',
-	'Usage Unit'=>'Usage Unit',
-	'Tax Class'=>'Tax Class',
-	'Website'=>'Website',
+	'Service Name'=>'نام خدمات',
+	'Service Active'=>'فعال',
+	'Service Category'=>'دسته بندی',
+	'Service No'=>'شماره خدمات',
+	'Owner'=>'مالک',
+	'No of Units'=>'تعداد یونیت ها',
+	'Commission Rate'=>'سطح کمیسیون',
+	'Price'=>'قیمت',
+	'Usage Unit'=>'استفاده یونیت',
+	'Tax Class'=>'کلاس مالیات',
+	'Website'=>'وبسایت',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Add to PriceBooks',
+	'LBL_ADD_TO_PRICEBOOKS' => 'اضافه کردن به دفتر قیمت',
 );
