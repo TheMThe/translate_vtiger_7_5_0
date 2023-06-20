@@ -54,10 +54,10 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Please remove line item that is deleted',
-    'JS_ORGANIZATION_NOT_FOUND'=> 'Organization empty!',
-    'JS_ORGANIZATION_NOT_FOUND_MESSAGE'=> 'Please select an organization before you copy address',
-	'JS_ACCOUNT_NOT_FOUND' => 'Organization empty!',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'لطفا خط آیتم حذف شده را حذف کنید',
+    'JS_ORGANIZATION_NOT_FOUND'=> 'شرکت خالی!',
+    'JS_ORGANIZATION_NOT_FOUND_MESSAGE'=> 'لطفا قبل از کپی کردن آدرس شرکت را انتخاب کنید',
+	'JS_ACCOUNT_NOT_FOUND' => 'شرکت خالی!',
 	'JS_ACCOUNT_NOT_FOUND_MESSAGE' =>  'Please select an organization before you copy address',
 	'JS_VENDOR_NOT_FOUND' => 'Vendor Empty', 
 	'JS_VENDOR_NOT_FOUND_MESSAGE' => 'Please select an vendor before you copy address',
