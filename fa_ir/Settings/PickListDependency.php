@@ -7,32 +7,33 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  *************************************************************************************/
-$languageStrings = array(
-	'LBL_ADD_RECORD' => 'اضافه کردن دیپندنسی لیست انتخابی',
-    'PickListDependency' => 'دیپندنسی لیست انتخابی',
-	'LBL_PICKLIST_DEPENDENCY' => 'دیپندنسی لیستانتخابی',
-	'LBL_SELECT_MODULE' => 'مودال',
-	'LBL_SOURCE_FIELD' => 'فیلد منبع',
-	'LBL_TARGET_FIELD' => 'فیلد هدف',
-	'LBL_SELECT_FIELD' => 'فیلد انتخاب شده',
-	'LBL_CONFIGURE_DEPENDENCY_INFO' => 'Click on the respective cell to change the mapping for picklist values of target field',
-	'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'Only mapped picklist values of the Source field will be shown below (except for first time)',
-	'LBL_CONFIGURE_DEPENDENCY_HELP_2' => "If you want to see or change the mapping for the other picklist values of Source field, <br/>
-										then you can select the values by clicking on <b>'Select Source values'</b> button on the right side",
-	'LBL_CONFIGURE_DEPENDENCY_HELP_3' => 'Selected values of the Target field values, are highlighted as',
-	'LBL_SELECT_SOURCE_VALUES' => 'انتخاب ارزش های منبع',
-	'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'Select Source Picklist Values',
-	'LBL_ERR_CYCLIC_DEPENDENCY' => 'This dependency setup is not allowed as it ends up in some cyclic dependency',
-	'LBL_SELECT_ALL_VALUES' => 'Select All',
-	'LBL_UNSELECT_ALL_VALUES' => 'Unselect All',
-    'LBL_CYCLIC_DEPENDENCY_ERROR' => 'This could end up in cyclic redundancy as %s field is already configured for %s field',
+$languageStrings = array (
+  'LBL_ADD_RECORD' => 'ایجاد ارتباط میان فهرست های انتخابی',
+  'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'تنها فهرست انتخابی معادل یابی شده فیلد منبع در قسمت زیر نمایش داده می شود (به جز مرتبه اول) ',
+  'LBL_CONFIGURE_DEPENDENCY_HELP_2' => 'در صورتی که مایل به مشاهده یا تغییر در اطلاعات معادل یابی شده سایر فهرست های انتخابی فیلد منبع می باشید<br/> می توانید با کلیک بر روی دکمه  <b>"انتخاب مقادیر منبع"</b> در سمت راست مقادیر مورد نظر را انتخاب نمایید',
+  'LBL_CONFIGURE_DEPENDENCY_INFO' => 'به منظور تغییر معادل های یافته شده برای مقادیر فهرست انتخابی، می بایست بر روی سلول مورد نظر کلیک کنید.',
+  'LBL_ERR_CYCLIC_DEPENDENCY' => 'ارتباط ایجاد شده نادرست است و باعث به وجود آمدن ارتباط حلقه ای می شود.',
+  'LBL_PICKLIST_DEPENDENCY' => 'ایجاد ارتباط میان فهرست های انتخابی',
+  'LBL_SELECT_FIELD' => 'انتخاب فیلد',
+  'LBL_SELECT_MODULE' => 'ماژول',
+  'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'مقادیر فهرست انتخابی مبدا را انتخاب کنید',
+  'LBL_SELECT_SOURCE_VALUES' => 'مقادیر مبدا را انتخاب کنید',
+  'LBL_TARGET_FIELD' => 'فیلد مقصد',
+  'PickListDependency' => 'وابستگی فهرست انتخابی',
+  'Module' => 'ماژول',
+  'Source Field' => 'فیلد مبدا',
+  'Target Field' => 'فیلد مقصد',
+  	'LBL_SELECT_ALL_VALUES' => 'انتخاب همه',
+	'LBL_UNSELECT_ALL_VALUES' => 'انتخاب هیچکدام',
+    'SINGLE_PickListDependency' => 'ارتباط'
+	
 );
 
-$jsLanguageStrings = array(
-	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Are you sure you want to delete this picklist dependency?',
-	'JS_DEPENDENCY_DELETED_SUEESSFULLY' => 'Dependency deleted successfully',
-	'JS_PICKLIST_DEPENDENCY_SAVED' => 'Picklist Dependency Saved',
-    'JS_DEPENDENCY_ATLEAST_ONE_VALUE' => 'You need to select atleast one value for',
-	'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'Source field and Target field should not be same',
-	'JS_SELECT_SOME_VALUE' => 'Select some value'
+$jsLanguageStrings = array (
+  'JS_DEPENDENCY_ATLEAST_ONE_VALUE' => 'شما باید حداقل یک مقدار برای',
+  'JS_DEPENDENCY_DELETED_SUEESSFULLY' => 'ارتباط با موفقیت حذف شد',
+  'JS_PICKLIST_DEPENDENCY_SAVED' => 'ارتباط ایجاد شده میان فهرست های انتخابی با موفقیت ذخیره شد.',
+  'JS_SELECT_SOME_VALUE' => 'یکی از گزینه ها را انتخاب کنید',
+  'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'فیلد مبدا و فیلد مقصد نباید یکسان باشند',
+  'JS_SELECT_SOME_VALUE' => 'انتخاب برخی مقادیر'
 );
