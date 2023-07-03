@@ -14,7 +14,7 @@ $languageStrings = Array(
 	'LBL_SELECT_MODULE' => 'انتخاب مودال',
 	'LBL_EMPTY_RECYCLEBIN' => 'سطل آشغال خالی',
 	'LBL_RESTORE' => 'بازیابی',
-	'LBL_NO_PERMITTED_MODULES' => 'No permitted modules available',
+	'LBL_NO_PERMITTED_MODULES' => 'No permitted ماژول ها available',
 	'LBL_RECORDS_LIST' => 'لیست سطل آشغال',
 	'LBL_NO_RECORDS_FOUND' => 'هیچ رکوردی در مودال سطل آشغال یافت نشد',
 );

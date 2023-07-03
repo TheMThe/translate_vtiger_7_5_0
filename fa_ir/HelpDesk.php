@@ -9,17 +9,17 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'HelpDesk' => 'بلیط ها',
-	'SINGLE_HelpDesk' => 'بلیط',
-	'LBL_ADD_RECORD' => 'اضافه کردن بلیط',
-	'LBL_RECORDS_LIST' => 'لیست بلیط',
+	'HelpDesk' => 'تیکت ها',
+	'SINGLE_HelpDesk' => 'تیکت',
+	'LBL_ADD_RECORD' => 'اضافه کردن تیکت',
+	'LBL_RECORDS_LIST' => 'لیست تیکت',
 
 	// Blocks
-	'LBL_TICKET_INFORMATION' => 'جزئیات بلیط',
-	'LBL_TICKET_RESOLUTION' => 'Ticket Resolution',
+	'LBL_TICKET_INFORMATION' => 'جزئیات تیکت',
+	'LBL_TICKET_RESOLUTION' => 'تیکت Resolution',
 
 	//Field Labels
-	'Ticket No' => 'شماره بلیط',
+	'تیکت No' => 'شماره تیکت',
 	'Severity' => 'Severity',
 	'Update History' => 'تاریخچه بروزرسانی',
 	'Hours' => 'ساعات',
@@ -54,14 +54,14 @@ $languageStrings = array(
 	'LBL_RELATED_TO' => 'مربوط به',
 
 	//added to support i18n in ticket mails
-	'Ticket ID'=>'Ticket ID',
+	'تیکت ID'=>'تیکت ID',
 	'Hi' => 'سلام',
 	'Dear'=> 'Dear',
-	'LBL_PORTAL_BODY_MAILINFO'=> 'The Ticket is',
+	'LBL_PORTAL_BODY_MAILINFO'=> 'The تیکت is',
 	'LBL_DETAIL' => 'اینها جزئیات هستند :',
 	'LBL_REGARDS'=> 'Regards',
 	'LBL_TEAM'=> 'HelpDesk تیم',
-	'LBL_TICKET_DETAILS' => 'Ticket Details',
+	'LBL_TICKET_DETAILS' => 'تیکت Details',
 	'LBL_SUBJECT' => 'موضوع : ',
 	'created' => 'ساخته شده',
 	'replied' => 'پاسخ داده شده',
@@ -71,12 +71,12 @@ $languageStrings = array(
 	'Thanks' => 'ممنونم',
 	'Support_team' => 'تیم پشتیبانی ویتایگر',
 	'The comments are' => 'نظرات اینها هستند',
-	'Ticket Title' => 'Ticket Title',
+	'تیکت Title' => 'تیکت Title',
 	'Re' => 'Re :',
 
 	//This label for customerportal.
 	'LBL_STATUS_CLOSED' =>'Closed',//Do not convert this label. This is used to check the status. If the status 'Closed' is changed in vtigerCRM server side then you have to change in customerportal language file also.
-	'LBL_STATUS_UPDATE' => 'جزئیات بلیط بروز شد به عنوان',
+	'LBL_STATUS_UPDATE' => 'جزئیات تیکت بروز شد به عنوان',
 	'LBL_COULDNOT_CLOSED' => 'تیکت نمیواند باشد',
 	'LBL_CUSTOMER_COMMENTS' => 'مشتری اطلاعات اضافی زیر را برای پاسخ شما فراهم کرده است:',
 	'LBL_RESPOND'=> 'با مهربانی هرچه زودترتیکت بالا را پاسخ دهید.',
@@ -95,15 +95,15 @@ $languageStrings = array(
 	'LBL_LOGIN_REVOKED' => 'Your login is revoked. Please contact your admin.',
 	'LBL_MAIL_SENT' => 'Mail has been sent to your mail id with the customer portal login details',
 	'LBL_ALTBODY' => 'This is the body in plain text for non-HTML mail clients',
-	'HelpDesk ID' => 'Ticket ID',    
+	'HelpDesk ID' => 'تیکت ID',    
 	//Portal shortcuts
 	'LBL_ADD_DOCUMENT'=>"Add Document",
 	'LBL_OPEN_TICKETS'=>"Open Tickets",
-	'LBL_CREATE_TICKET'=>"Create Ticket",
+	'LBL_CREATE_TICKET'=>"Create تیکت",
 );
 
 $jsLanguageStrings=array(
 	'LBL_ADD_DOCUMENT'=>'Add Document',
 	'LBL_OPEN_TICKETS'=>'Open Tickets',
-	'LBL_CREATE_TICKET'=>'Create Ticket'
+	'LBL_CREATE_TICKET'=>'Create تیکت'
 );

@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	//Actions
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convert Lead Mapping',
+	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convert سرنخ Mapping',
 	'LBL_ORGANIZATIONS' => 'شرکت',
 	'LBL_CONTACTS' => 'مخاطبین',
 	'LBL_OPPURTUNITIES' => 'فرصت ها',

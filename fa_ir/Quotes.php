@@ -8,22 +8,22 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Quotes'=>'استناد ها',
+	'Quotes'=>'پیش فاکتور ها',
 	//DetailView Actions
-	'SINGLE_Quotes' => 'استناد',
+	'SINGLE_Quotes' => 'پیش فاکتور',
 	'LBL_EXPORT_TO_PDF' => 'استخراج به پی دی اف',
 	'LBL_SEND_MAIL_PDF' => 'ارسال ایمیل بصورت پی دی اف',
 
 	//Basic strings
 	'LBL_ADD_RECORD' => 'اضافه کردن اتناد',
-	'LBL_RECORDS_LIST' => 'لیست استناد ها',
+	'LBL_RECORDS_LIST' => 'لیست پیش فاکتور ها',
 
 	// Blocks
 	'LBL_QUOTE_INFORMATION' => 'Quote Details',
 
 	//Field Labels
-	'Quote No'=>'شماره استناد',
-	'Quote Stage'=>'استیج استناج',
+	'Quote No'=>'شماره پیش فاکتور',
+	'Quote Stage'=>'استیج پیش فاکتور',
 	'Valid Till'=>'معتبر تا',
 	'Inventory Manager'=>'مدیر انبار',
 	'Related To' => 'مربوط به',

@@ -9,12 +9,12 @@
  *************************************************************************************/
 
 $languageStrings = array(
-    'LBL_SELECT_MARKETING_MODULES' => 'مودال را انتخاب کنید تا در برامه بازاریابی نشان داده شود',
-    'LBL_SELECT_SALES_MODULES' => 'مودال ها را انتخاب کنید تا در برنامه فروش نمایش داده شود',
-    'LBL_SELECT_INVENTORY_MODULES' => 'مودال ها را انتخاب کنید تا در برنمه بازار نشان داده شود',
-    'LBL_SELECT_SUPPORT_MODULES' => 'مودال ها را انخاب کنید تا در برنامه پشتیبانی نشان داده شود',
-    'LBL_SELECT_PROJECT_MODULES' => 'مودال ها را انتخاب کنید تا در برنمه پروژه نشان داده شود',
-    'LBL_SELECT_HIDDEN_MODULE' => 'انتخاب مودال های مخفی',
+    'LBL_SELECT_MARKETING_MODULES' => 'ماژول را انتخاب کنید تا در برامه بازاریابی نشان داده شود',
+    'LBL_SELECT_SALES_MODULES' => 'ماژول ها را انتخاب کنید تا در برنامه فروش نمایش داده شود',
+    'LBL_SELECT_INVENTORY_MODULES' => 'ماژول ها را انتخاب کنید تا در برنمه بازار نشان داده شود',
+    'LBL_SELECT_SUPPORT_MODULES' => 'ماژول ها را انخاب کنید تا در برنامه پشتیبانی نشان داده شود',
+    'LBL_SELECT_PROJECT_MODULES' => 'ماژول ها را انتخاب کنید تا در برنمه پروژه نشان داده شود',
+    'LBL_SELECT_HIDDEN_MODULE' => 'انتخاب ماژول های مخفی',
     'LBL_INFO' => 'اطلاعات',
     'LBL_MENU_EDITOR_INFO' => 'Drag and drop a Module to move/re-order it. You can Remove a Module from the App and Add it back later.',
 );
@@ -22,8 +22,8 @@ $languageStrings = array(
 $jsLanguageStrings = Array (
     'JS_MODULE_NOT_DRAGGABLE' => 'مدال قابل جابجایی نیست',
     'JS_MODULE_SEQUENCE_SAVED' => 'ترتیب مدال ها با موفقیت ذخیر شد',
-    'JS_MODULE_REMOVED' => 'مودال با موفقیت برداشته شد',
+    'JS_MODULE_REMOVED' => 'ماژول با موفقیت برداشته شد',
     'JS_MODULE_ADD_SUCCESS' => 'مدال(ها)با موفقیت اضافه شد',
-    'JS_PLEASE_SELECT_A_MODULE' => 'لطفا یک مودال انتخاب کنید',
+    'JS_PLEASE_SELECT_A_MODULE' => 'لطفا یک ماژول انتخاب کنید',
 )
 ?>
