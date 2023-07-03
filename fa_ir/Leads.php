@@ -9,16 +9,16 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Leads' => 'سرپرست ها',
-	'SINGLE_Leads' => 'سرپرست',
-	'LBL_RECORDS_LIST' => 'لیست سرپرست ها',
-	'LBL_ADD_RECORD' => 'اضافه کردن سرپرست',
+	'Leads' => 'سرنخ ها',
+	'SINGLE_Leads' => 'سرنخ',
+	'LBL_RECORDS_LIST' => 'لیست سرنخ ها',
+	'LBL_ADD_RECORD' => 'اضافه کردن سرنخ',
 
 	// Blocks
-	'LBL_LEAD_INFORMATION' => 'جزئیات سرپرست',
+	'LBL_LEAD_INFORMATION' => 'جزئیات سرنخ',
 
 	//Field Labels
-	'Lead No' => 'شماره سرپرست',
+	'Lead No' => 'شماره سرنخ',
 	'Company' => 'شرکت',
 	'Designation' => 'تخصص',
 	'Website' => 'وبسایت',
@@ -45,14 +45,14 @@ $languageStrings = array(
 	'Contacted'=>'ارتباط شده',
 	'Hot'=>'داغ',
 	'Junk Lead'=>'Junk Lead',
-	'Lost Lead'=>'سرپرست گم شده',
+	'Lost Lead'=>'سرنخ گم شده',
 	'Not Contacted'=>'مرتبط نشده',
 	'Pre Qualified'=>'نیمه تایید شده',
 	'Qualified'=>'تایید شده',
 	'Warm'=>'گرم',
 
 	// Mass Action
-	'LBL_CONVERT_LEAD' => 'اضافه کردن سرپرست',
+	'LBL_CONVERT_LEAD' => 'اضافه کردن سرنخ',
 
 	//Convert Lead
 	'LBL_TRANSFER_RELATED_RECORD' => 'رکورد های مرتبط را انتقال بده به',
@@ -63,7 +63,7 @@ $languageStrings = array(
 	//Leads Custom Field Mapping
 	'LBL_CUSTOM_FIELD_MAPPING'=> 'Lead Conversion Data Mapping',
 	'LBL_IMAGE_INFORMATION' => 'عکس پروفایل',
-	'Lead Image' => 'عکس سرپرست',
+	'Lead Image' => 'سرنخسرپرست',
 );
 $jsLanguageStrings = array(
 	'JS_SELECT_CONTACTS' => 'برای ادامه مخاطب ها را انتخاب کنید',
