@@ -212,18 +212,18 @@ $jsLanguageStrings = array(
     'JS_QUICK_CREATE' => 'ساخت سریع',
     'JS_MASS_EDIT' => 'ادیت بزرگ',
     'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'نتیجه ی این عملیات حذف شدن تمام دیتاست.
-                                                 When a field is deleted, values stored in this field will be deleted, and cannot be retrieved.
-                                                 If you are not sure and want to be able to view this data in the future, you can mark the field as Inactive instead of deleting it. Inactive fields can later be activated at any time.
-                                                 Are you sure to delete this field?',
-    'JS_FIELD_DELETE_CONFIRMATION' => 'Delete - I dont need the data in this field.',
-	'JS_STATUS_CHANGED_SUCCESSFULLY' => 'Status changed Successfully',
-    'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => 'Field can either be an header field or key field',
-    'JS_DETAIL_HEADER' => 'Record header',
+                                                 وقتی یک فیلد حذف میشود تمام ارزش های داخل فیلد هم حذف می شوند و قاب بازگشت نمی باشند.
+                                                 اگر مطمئن نیستید و می خواهید قادر باشید که داده ها را در اینده ببینید می توانید به جای حذف کردن فیلد آن را به عنوان غیر فعال انتخاب کنید فیلد های غیر فعال در هر زمانی می توانند فعال شوند.
+                                                 مطمئن هستید می خواهید فیلد را حذف کنید?',
+    'JS_FIELD_DELETE_CONFIRMATION' => 'Delete - من به دیتا های داخل فیلد نیازی ندارم.',
+	'JS_STATUS_CHANGED_SUCCESSFULLY' => 'وضعیت با موفقیت تغییر یافت',
+    'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => 'فیلد می تواند هم هدر باشد هم کلیدی',
+    'JS_DETAIL_HEADER' => 'ریکورد هدر',
     'JS_MAXIMUM_HEADER_FIELDS_ALLOWED' => 'Maximum %s header fields allowed',
     'JS_NAME_FIELDS_APPEAR_IN_HEADER_BY_DEFAULT' => 'Name fields appear in Header by default',
     'JS_FIELD_IS_HEADER_ENABLED_FOR_VTIGER7' => 'This Field is Header enabled for Vtiger7, It will appear in Summary View',
 
-	'JS_DUPLICATE_HANDLING_SUCCESS_MESSAGE' => 'Successfully updated to consider selected fields in duplicates prevention',
-	'JS_DUPLICATE_HANDLING_FAILURE_MESSAGE' => 'Failed to consider selected fields in duplicates prevention',
-	'JS_DUPLICATE_CHECK_DISABLED' => 'Duplicate check is disabled',
+	'JS_DUPLICATE_HANDLING_SUCCESS_MESSAGE' => 'با موفقیت آپدیت شد تا فیلد های انتخاب شده در حالت پیشگیری از تکراری بودن ادر نظر گرفته شوند',
+	'JS_DUPLICATE_HANDLING_FAILURE_MESSAGE' => 'در نظر گرفتن فیلد ای انتاب شده بعنوان پیشگیری از حالت تکراری شکست خورد',
+	'JS_DUPLICATE_CHECK_DISABLED' => 'چک  کردن تکراری ها غیر فعال شد',
 );
